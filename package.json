@@ -1,0 +1,14 @@
+{
+  "name": "211d5c2ebab292e9",
+  "main": "211d5c2ebab292e9@2332.js",
+  "version": "2332.0.0",
+  "homepage": "https://observablehq.com/d/211d5c2ebab292e9",
+  "author": {
+    "name": "Jesus M's Workspace",
+    "url": "https://observablehq.com/@jesus-m-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
