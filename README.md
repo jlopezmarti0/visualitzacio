@@ -1,6 +1,6 @@
 # Producció energètica a Espanya
 
-https://observablehq.com/d/211d5c2ebab292e9@2332
+https://observablehq.com/d/211d5c2ebab292e9@2533
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@5
-npm install https://api.observablehq.com/d/211d5c2ebab292e9@2332.tgz?v=3
+npm install https://api.observablehq.com/d/211d5c2ebab292e9@2533.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:
